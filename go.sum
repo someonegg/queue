@@ -1,0 +1,7 @@
+github.com/garyburd/redigo v1.6.3 h1:HCeeRluvAgMusMomi1+6Y5dmFOdYV/JzoRrrbFlkGIc=
+github.com/garyburd/redigo v1.6.3/go.mod h1:rTb6epsqigu3kYKBnaF028A7Tf/Aw5s0cqA47doKKqw=
+github.com/someonegg/gocontainer v1.2.2 h1:eevNEkyaIv3yj9LKgUhz7rj9ynac4ffxL60EDHpOT2U=
+github.com/someonegg/gocontainer v1.2.2/go.mod h1:64V0l0uxMmT8F4ssTmO1W+Tqhu6Rl7gJ7Jw3hE7ctew=
+github.com/someonegg/gox v1.0.0/go.mod h1:pngAcWxBFnyYM4oY+h9Rgv0WaikLkSfY5dBYuabUnBE=
+github.com/someonegg/gox v1.0.2 h1:TXiFzNfqUnZIvjeto7DFy+lrRooYpebuCSKnfvgVnT0=
+github.com/someonegg/gox v1.0.2/go.mod h1:pngAcWxBFnyYM4oY+h9Rgv0WaikLkSfY5dBYuabUnBE=
